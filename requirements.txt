@@ -1,0 +1,12 @@
+ultralytics>=8.0.0
+torch>=1.13.0
+torchvision
+opencv-python
+streamlit
+pyyaml
+albumentations
+pillow
+lxml
+pycocotools
+fiftyone
+tqdm
